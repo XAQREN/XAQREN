@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @XAQREN
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m sreehari ps
+- 👀 I’m interested in tech
+- 🌱 I’m currently learning advanced python programming
+- 💞️ I’m looking to collaborate on react projects
+- 📫 How to reach me @twitter https://twitter.com/deep_coding
 
 <!---
 XAQREN/XAQREN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
